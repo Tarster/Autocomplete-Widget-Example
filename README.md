@@ -4,6 +4,6 @@ An example of how to use Autocomplete Widget to fill the countries text feild in
 
 ## Getting Started
 
-Data and Object is coontained in the country.dart
+Data and Country Object are present in the country.dart
 
 The widget is present in the main.dart file.
