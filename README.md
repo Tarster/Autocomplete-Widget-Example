@@ -1,4 +1,4 @@
-# testapp
+# Autocomplete-Widget-Example
 
 An example of how to use Autocomplete Widget to fill the countries text feild in a foam.
 
